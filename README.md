@@ -30,6 +30,10 @@ These need to be installed first:
 }
 ```
 
+##### GIF
+![graphql-playground-schema-tab-issue](https://user-images.githubusercontent.com/29691117/83679988-ed041c80-a5fd-11ea-9a6c-e0ad8ea0dfb6.gif)
+
+
 #### Working scenarios:
 1. From the same GraphQL server, GraphiQL will be able to fetch the Schema which is running on `http://127.0.0.1:9001/graphiql`
 2. graphql-playground-electron also fetches the schema successfully without crashing.
